@@ -1,6 +1,6 @@
 {
   "name": "fun-constructors",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Functional constructors for standard collections",
   "sideEffects": false,
   "types": "./dist/dts/index.d.ts",
